@@ -44,3 +44,7 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 ### Reference Code:
 
 https://github.com/primefaces/primevue-examples/tree/a8f951f38d15ee78f49a65862e2df940354a72db/nuxt3-quickstart
+
+### Live URL :
+
+https://nuxtstarterwdlogi-hgmw--3000--bec01ace.local-credentialless.webcontainer.io/
