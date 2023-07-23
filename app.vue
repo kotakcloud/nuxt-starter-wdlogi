@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <Button @click="increaseCount" label="Count"></Button>
+    <Button @click="increaseCount" label="Count" rounded />
     <h5 class="green">{{ count }}</h5>
   </div>
 </template>
